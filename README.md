@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Roki!
+- 👀 I’m interested in coding, software development, hardware and gaming!
+- 🌱 I’m currently learning JavaScript, C++ and C
+- 📫 Reach me on my mail: miroma2007kk@gmail.com
